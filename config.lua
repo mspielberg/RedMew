@@ -1,8 +1,5 @@
--- global: the global table
--- global.scenario: the only segment of global we should touch
--- global.
-_DEBUG = false
-_CHEATS = false
+_DEBUG = true
+_CHEATS = true
 MARKET_ITEM = 'coin'
 
 global.config = {}
